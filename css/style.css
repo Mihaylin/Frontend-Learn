@@ -1,0 +1,12 @@
+.img_logo{
+    height: 300px;
+    width: 300px;
+}
+
+.logo {
+    height: 300px;
+    width: 300px;
+    background-image: url(../img/logo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
