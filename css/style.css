@@ -1,12 +1,20 @@
-.img_logo{
-    height: 300px;
-    width: 300px;
+.red {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    border-radius: 50%;
 }
 
-.logo {
-    height: 300px;
-    width: 300px;
-    background-image: url(../img/logo.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+.yellow {
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    border-radius: 50%;
+}
+
+.green {
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    border-radius: 50%;
 }
