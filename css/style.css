@@ -1,20 +1,11 @@
-.red {
-    height: 200px;
-    width: 200px;
-    background-color: red;
-    border-radius: 50%;
+a:hover {
+    text-decoration: none;
 }
 
-.yellow {
-    height: 200px;
-    width: 200px;
-    background-color: yellow;
-    border-radius: 50%;
+p:hover {
+    text-decoration: underline;
 }
 
-.green {
-    height: 200px;
-    width: 200px;
-    background-color: green;
-    border-radius: 50%;
+.menu li:nth-child(3) {
+    color: aqua;
 }
